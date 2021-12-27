@@ -14,7 +14,14 @@ SpringCloud
 
 
 ## Service Discovery 
+* http://jasonwilder.com/blog/2014/02/04/service-discovery-in-the-cloud/
 * https://medium.com/javarevisited/how-to-use-spring-cloud-gateway-to-dynamically-discover-microservices-194c0c3869c6 
 * Simple example https://medium.com/javarevisited/simple-implementation-of-spring-cloud-openfeign-7f022630d01d
 * https://siweheee.medium.com/practical-configuration-tricks-for-spring-cloud-api-gateway-and-service-discovery-7482683f9d3a
 * https://medium.com/geekculture/zuul-api-gateway-2bcdf4dd33e6
+
+
+Service Discovery in Springboot
+* Good Read: https://stackoverflow.com/questions/36577994/value-of-eureka-in-cloud-foundry-paas-environment 
+* Eureka Server https://github.com/making/cf-eureka-server Client https://github.com/making/hello-pws/tree/cloud Blog: https://spring.io/blog/2015/01/20/microservice-registration-and-discovery-with-spring-cloud-and-netflix-s-eureka 
+* Spring Cloud for Cloud foundry : https://cloud.spring.io/spring-cloud-cloudfoundry/reference/html/#configuration  it has another service discovery possibility)
