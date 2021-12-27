@@ -15,5 +15,6 @@ SpringCloud
 
 ## Service Discovery 
 * https://medium.com/javarevisited/how-to-use-spring-cloud-gateway-to-dynamically-discover-microservices-194c0c3869c6 
+* Simple example https://medium.com/javarevisited/simple-implementation-of-spring-cloud-openfeign-7f022630d01d
 * https://siweheee.medium.com/practical-configuration-tricks-for-spring-cloud-api-gateway-and-service-discovery-7482683f9d3a
 * https://medium.com/geekculture/zuul-api-gateway-2bcdf4dd33e6
